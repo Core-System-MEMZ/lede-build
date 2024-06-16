@@ -13,6 +13,6 @@
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
-
+git clone https://github.com/pexcn/openwrt-chinadns-ng.git package/chinadns-ng
 git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 
